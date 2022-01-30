@@ -9,7 +9,7 @@
     <br>
     <div>
         <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-        <img src="https://c.tenor.com/xBh07rz9GHYAAAAC/nezuko-kamado-nezuko.gif" align="right">
+        <img src="https://c.tenor.com/P1ppxlVuIoQAAAAC/anime.gif" align="right">
         <li>
             <b>Name:</b> RaikenSW
         </li>
@@ -30,7 +30,7 @@
     <div>
         <h2 align="left" style="font-size: 24px">                  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
         <p>
-            <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+            <img src="https://c.tenor.com/4iS-Y6QCAl0AAAAM/seijuro-akashi-akashi.gif" align="right">
     </div>
     <div>
         <p align="center">
