@@ -23,7 +23,7 @@
             <b>Hobbys:</b> Tech Stuff, Graphics Design, Music, Editing
         </li>
         <li>
-            <b>Working @:</b> Not Yet 😞
+            <b>Working @:</b> ROIPUBLIC
         </li>
         <br>
     </div>
