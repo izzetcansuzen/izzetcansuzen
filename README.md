@@ -52,8 +52,7 @@
             <img
                 src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
             <br><br>
-            I am also engaged in design. I love video editing as a hobby. I am focused on improving myself as I am not
-            currently working in any workplace.
+            I am also engaged in design. I love video editing as a hobby. I am focused on improving myself and I am work at ROIPUBLIC
         </p>
         <br>
         <h2>                   📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
