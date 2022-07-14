@@ -30,7 +30,6 @@
     <div>
         <h2 align="center" style="font-size: 24px">                  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
         <p>
-            <img src="https://c.tenor.com/0pSkAq26A4YAAAAd/smile-handsome.gif" align="center">
     </div>
     <div>
         <p align="center">
