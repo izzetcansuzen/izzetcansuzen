@@ -31,9 +31,7 @@
 
 <!-- GitHub Stats -->
 
-<img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com?user=izzetcansuzen&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats" title="Github Contributions"/>
-
-<img alt="Jeferson Lucas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=izzetcansuzen&theme=midnight-purple&show_icons=true&hide_border=true" title="Jeferson Lucas GitHub Stats"/>
+<img alt="İzzet Can Suzen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=izzetcansuzen&theme=midnight-purple&show_icons=true&hide_border=true" title="Jeferson Lucas GitHub Stats"/>
 
 <!-- Skills -->
 
