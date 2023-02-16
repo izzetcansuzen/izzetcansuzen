@@ -21,9 +21,9 @@
 <!-- Social Networks -->
 <p align="left">
 	<!-- Linkedin -->
-	<a href="https://www.linkedin.com/in/izzet-can-suzen/" target="_black"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Jeferson%20Lucas-9644F4?&style=flat&logo=Linkedin&logoColor=white" title="Linkedin Badge" /></a>
+	<a href="https://www.linkedin.com/in/izzet-can-suzen/" target="_black"><img alt="Linkedin Badge" src="https://img.shields.io/badge/izzetcansuzen?&style=flat&logo=Linkedin&logoColor=white" title="Linkedin Badge" /></a>
 	<!-- E-mail -->
-	<a href="mailto:izzetcansuzen@gmail.com" target="_black"><img alt="Gmail Badge" src="https://img.shields.io/badge/-jeferson.luckas-9644F4?&style=flat&logo=Gmail&logoColor=white" title="Gmail Badge" /></a>
+	<a href="mailto:izzetcansuzen@gmail.com" target="_black"><img alt="Gmail Badge" src="https://img.shields.io/badge/izzetcansuzen-9644F4?&style=flat&logo=Gmail&logoColor=white" title="Gmail Badge" /></a>
 	<!-- <a href="https://jefersonlucas.github.io/portfolio" target="_black"><img alt="Portfólio" src="https://img.shields.io/badge/JefersonLucas-Portf%C3%B3lio-9644F4?style=flat&color=9644F4" title="Portfólio" /></a>-->
 </p>
 
