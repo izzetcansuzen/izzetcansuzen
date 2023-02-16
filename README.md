@@ -1,70 +1,78 @@
-<!DOCTYPE html>
+<!-- Cover
+<p align="center">
+	<img 
+		alt="cover" 
+		loading="lazy"
+		src="./cover.png"
+		title="Jeferson Lucas" 
+	>
+</p>
+ -->
 
-<body>
-    <h1 align="center">~ 👹 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👹 ~</h1>
-    <br>
-    <div align="center">
-        <img src="https://c.tenor.com/OKQABvyVCbkAAAAd/demon-slayer.gif">
-    </div>
-    <br>
-    <div>
-        <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-        <img src="https://c.tenor.com/P1ppxlVuIoQAAAAC/anime.gif" align="right">
-        <li>
-            <b>Name:</b> RaikenSW
-        </li>
-        <li>
-            <b>Nationality:</b> Turkish
-        </li>
-        <li>
-            <b>Loves:</b> coding, animes, basketball and games maybe -///-
-        </li>
-        <li>
-            <b>Hobbys:</b> Tech Stuff, Graphics Design, Music, Editing
-        </li>
-        <li>
-            <b>Working @:</b> ROIPUBLIC
-        </li>
-        <br>
-    </div>
-    <div>
-        <h2 align="center" style="font-size: 24px">                  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
-        <p>
-    </div>
-    <div>
-        <p align="center">
-            <img
-                src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-            <img
-                src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /><br>
-            <img
-                src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-             <img
-                src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-            <img
-                src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-            <img
-                src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
-            <img
-                src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-            <img
-                src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-            <br><br>
-            I am also engaged in design. I love video editing as a hobby. I am focused on improving myself and I am work at ROIPUBLIC
-        </p>
-        <br>
-        <h2>                   📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-        <img src="https://media.giphy.com/media/12mF7MMDXsHdcs/giphy.gif" align="right" width="373.5px"
-            height="208.5px">
-        <br>
-        <p align="center">Hewe awe some of my <br>
-            most used s-s-sociaw things >~< xoxox</p>
-                <p align="center"><a href="https://twitter.com/BladesSwitch" target="_blank"><img
-                            src="https://img.shields.io/badge/SwitchBlades%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-                    <a href="https://discord.gg/HxtrF73w" target="_blank"><img
-                            src="https://img.shields.io/badge/SwitchBlades%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-                </p>
-    </div>
-    <br>
-</body>
+<!-- Info repo -->
+
+![GitHub followers](https://img.shields.io/github/followers/JefersonLucas?style=flat&color=9644F4)
+![GitHub User's stars](https://img.shields.io/github/stars/JefersonLucas?style=flat&color=9644F4)
+![GitHub last commit](https://img.shields.io/github/last-commit/JefersonLucas/JefersonLucas?style=flat&color=9644F4)
+![Views Counter](https://komarev.com/ghpvc/?username=JefersonLucas&color=blueviolet)
+
+## Hello, how are you? 👋🏻
+
+<!-- Social Networks -->
+<p align="left">
+	<!-- Linkedin -->
+	<a href="https://www.linkedin.com/in/izzet-can-suzen/" target="_black"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Jeferson%20Lucas-9644F4?&style=flat&logo=Linkedin&logoColor=white" title="Linkedin Badge" /></a>
+	<!-- E-mail -->
+	<a href="mailto:izzetcansuzen@gmail.com" target="_black"><img alt="Gmail Badge" src="https://img.shields.io/badge/-jeferson.luckas-9644F4?&style=flat&logo=Gmail&logoColor=white" title="Gmail Badge" /></a>
+	<!-- <a href="https://jefersonlucas.github.io/portfolio" target="_black"><img alt="Portfólio" src="https://img.shields.io/badge/JefersonLucas-Portf%C3%B3lio-9644F4?style=flat&color=9644F4" title="Portfólio" /></a>-->
+</p>
+
+🧔🏻 My name is **İzzet Can Suzens**, I'm 22 years old, I'm from Turkey, graduated from Computer Programming and i'm Full Stack Web Developer.
+
+<!-- GitHub Stats -->
+
+<img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com?user=izzetcansuzen&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats" title="Github Contributions"/>
+
+<img alt="Jeferson Lucas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=izzetcansuzen&theme=midnight-purple&show_icons=true&hide_border=true" title="Jeferson Lucas GitHub Stats"/>
+
+<!-- Skills -->
+
+## Skills 👨🏻‍💻
+
+<!-- Languages, libs and frameworks -->
+
+![HTML5](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5&logoColor=9644F4)
+![CSS3](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=9644F4)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?fff&style=flat&logo=javascript&logoColor=9644F4)
+![Sass](https://img.shields.io/badge/-Sass-000?style=flat&logo=sass&logoColor=9644F4)
+![JSON](https://img.shields.io/badge/-JSON-000?style=flat&logo=json&logoColor=9644F4)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logoColor=9644F4&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logoColor=9644F4&logo=mysql)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logoColor=9644F4&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react&logoColor=9644F4)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=9644F4)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzetcansuzen&layout=compact&theme=midnight-purple&hide_border=true" title="Top Langs"/>
+
+Some of the technologies you can find in my GitHub repository:
+
+- 🔤 **Languages**: JavaScript (ES6+) and TypeScript (v4).
+- 🔜 **Front-End**: React, Next.js, Vue.js.
+- 🔙 **Back-End**: Node.js, Express, Laravel.
+- 🎲 **Database**: MySQL.
+- 🏷️ **Versioning**: Git, GitHub and Git Flow.
+- 👷🏻 **Code architecture**: Rest API, GraphQL.
+
+<!-- Projects
+
+## Projects 📊
+
+My top 3 most famous projects:🏆
+
+- 🥇 [The Matrix Effect](https://github.com/JefersonLucas/the-matrix-effect) · The incredible rain effect of letters from the Matrix trilogy.
+- 🥈 [The Sharingan Eye](https://github.com/JefersonLucas/the-sharingan-eye) · The powerful dojutsu kekkei genkai of the members of the Uchiha clan made in CSS.
+- 🥉 [Snake Game 2D](https://github.com/JefersonLucas/snake-game-2D) · The famous 2D Scobra game in which your objective is to eat, get huge and accumulate many points.
+
+You can also view all of my repositories [here](https://github.com/JefersonLucas?tab=repositories&q=&type=source&language=).
+-->
