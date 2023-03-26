@@ -11,10 +11,10 @@
 
 <!-- Info repo -->
 
-![GitHub followers](https://img.shields.io/github/followers/JefersonLucas?style=flat&color=9644F4)
-![GitHub User's stars](https://img.shields.io/github/stars/JefersonLucas?style=flat&color=9644F4)
-![GitHub last commit](https://img.shields.io/github/last-commit/JefersonLucas/JefersonLucas?style=flat&color=9644F4)
-![Views Counter](https://komarev.com/ghpvc/?username=JefersonLucas&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/izzetcansuzen?style=flat&color=9644F4)
+![GitHub User's stars](https://img.shields.io/github/stars/izzetcansuzen?style=flat&color=9644F4)
+![GitHub last commit](https://img.shields.io/github/last-commit/izzetcansuzen/JefersonLucas?style=flat&color=9644F4)
+![Views Counter](https://komarev.com/ghpvc/?username=izzetcansuzen&color=blueviolet)
 
 ## Hello, how are you? 👋🏻
 
@@ -31,7 +31,7 @@
 
 <!-- GitHub Stats -->
 
-<img alt="İzzet Can Suzen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=izzetcansuzen&theme=midnight-purple&show_icons=true&hide_border=true" title="Jeferson Lucas GitHub Stats"/>
+<img alt="İzzet Can Suzen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=izzetcansuzen&theme=midnight-purple&show_icons=true&hide_border=true" title="İzzet Can Suzen's GitHub Stats"/>
 
 <!-- Skills -->
 
