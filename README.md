@@ -27,7 +27,7 @@
 	<!-- <a href="https://jefersonlucas.github.io/portfolio" target="_black"><img alt="Portfólio" src="https://img.shields.io/badge/JefersonLucas-Portf%C3%B3lio-9644F4?style=flat&color=9644F4" title="Portfólio" /></a>-->
 </p>
 
-🧔🏻 My name is **İzzet Can Suzens**, I'm 22 years old, I'm from Turkey, graduated from Computer Programming and i'm Full Stack Web Developer.
+🧔🏻 My name is **İzzet Can Suzen**, I'm 25 years old, I'm from Turkey, graduated from Computer Programming and i'm Full Stack Web Developer.
 
 <!-- GitHub Stats -->
 
